@@ -46,7 +46,7 @@ mybatis:
 commodity:
   file:
     json:
-      path: commodity_new.json
+      path: commodity_new.txt
 jwt:
   key: c21hcnRybS1kZGRzbWFydHJtLWRkZHNtYXJ0cm0tZGRk
   expirationSecs: 2592000
